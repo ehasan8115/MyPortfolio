@@ -19,7 +19,7 @@ I'm Ehasan Ahamad Ansari, a web developer and a student at NIET College. I have 
 Here are some of the skills I possess:
 
 - Languages: Python, Java, JavaScript, SQL
-- Web Technologies: HTML5, CSS3
+- Web Technologies: HTML5, CSS3, Bootstrap, JavaScript, Node.js, MongoDB, React 
 - Tools: GitHub, VS Code, SQL Developer
 - Courses: Full Stack Web Development, Programming with Java, Data Structures, Database Systems, OOPs with Java
 - Other Skills: Problem Solving, Leadership, Teamwork, Critical Thinking, Communication
@@ -29,7 +29,7 @@ Here are some of the skills I possess:
 I offer the following services:
 
 - Problem Solving: I can help solve various coding problems.
-- Web Design: I create visually appealing and innovative website designs.
+- Web Development: I create visually appealing and innovative websites.
 - Responsive Web Design: I make websites responsive for optimal viewing on different devices.
 - Coding: I write clean and efficient code.
 - Finder: I can find solutions to various problems.
