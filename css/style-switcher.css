@@ -57,6 +57,17 @@
     border-radius: 50%;
     cursor: pointer;
 }
+
+
+.languages .technology{
+    color: var(--text-black-900);
+    
+}
+.languages .technology:hover{
+    color: white;
+}
+
+
 .style-switcher .color-1{
     background: #37b182;
 }

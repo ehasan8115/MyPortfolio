@@ -562,6 +562,35 @@ h3.my-profession{
     margin-bottom: 10px;
     justify-content: space-around;
 }
+
+
+.languages{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.languages .technology{
+    color: #222222;
+    font-size: .8rem;
+    border: 1px solid var(--skin-color);
+    padding: 0.2rem 0.8rem;
+    margin: 0.4rem 0.6rem;;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+.languages .technology:hover{
+    border-radius: 1rem;
+    background-color: var(--skin-color);
+    transition: all 0.3s ease;
+    font-size: 15px;
+    font-weight: 400;
+    color: var(--bg-black-100);
+}
+
+
 .btn2{
     margin-top: 15px;
     font-size: 16px;
@@ -727,6 +756,10 @@ h3.my-profession{
     .home .home-img{
         display: none;
     }
+    .languages{
+        display: inline-flex;
+        flex-flow: wrap;
+    }
 }
 @media (max-width:767px){
     .contact .contact-form .col-6,
@@ -739,5 +772,9 @@ h3.my-profession{
     .about .about-content .personal-info{
         flex: 0 0 100%;
         max-width: 100%;
+    }
+    .languages{
+        display: inline-flex;
+        flex-flow: wrap;
     }
 }
