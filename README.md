@@ -51,6 +51,8 @@ Here are some of the projects I have worked on:
 
 6. Keeper App: A note-taking app for keeping track of your notes and tasks. [GitHub Repo](https://github.com/ehasan8115/keeper) | [Website](https://ehasan-keeper-app.netlify.app/)
 
+7. SocialBook - Frontend Clone of Facebook: This is a frontend clone of the popular social media platform Facebook. It is built using HTML, CSS and JavaScript. [GitHub Repo](https://github.com/ehasan8115/socialbook) | [Website](https://github.com/ehasan8115/socialbook)
+
 Feel free to explore these projects and provide feedback!
 
 ## Contact
