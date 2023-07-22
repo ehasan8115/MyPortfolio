@@ -43,21 +43,21 @@ I offer the following services:
 
 Here are some of the projects I have worked on:
 
-1. Drum-kit Website: A website that simulates a drum kit. [GitHub Repo](https://github.com/ehasan8115/drum-kit) | [Website](https://ehasan8115.github.io/drum-kit/)
+1. **Drum-kit**: A website that simulates a drum kit. [GitHub Repo](https://github.com/ehasan8115/drum-kit) | [Website](https://ehasan8115.github.io/drum-kit/)
 
-2. Newsletter: An application for managing newsletters. [GitHub Repo](https://github.com/ehasan8115/newsletter-app) | [Website](https://newsletter-app-ehasan.onrender.com/)
+2. **Newsletter**: An application for managing newsletters. [GitHub Repo](https://github.com/ehasan8115/newsletter-app) | [Website](https://newsletter-app-ehasan.onrender.com/)
 
-3. Landing Page: A simple landing page template. [GitHub Repo](https://github.com/ehasan8115/landing-page) | [Website](https://ehasan8115.github.io/landing-page/)
+3. **Landing Page**: A simple landing page template. [GitHub Repo](https://github.com/ehasan8115/landing-page) | [Website](https://ehasan8115.github.io/landing-page/)
 
-4. Blog with Database: A blog application with a database for managing and displaying blog posts. [GitHub Repo](https://github.com/ehasan8115/blog-with-database) | [Website](https://blog-with-database-3qz1.onrender.com/)
+4. **Blog with Database**: A blog application with a database for managing and displaying blog posts. [GitHub Repo](https://github.com/ehasan8115/blog-with-database) | [Website](https://blog-with-database-3qz1.onrender.com/)
 
-5. ToDoList App: This is a simple web-based Todo List application built with Node.js, Express, and MongoDB. [GitHub Repo](https://github.com/ehasan8115/todolist) | [Website](https://todolist-app-jeh0.onrender.com/)
+5. **ToDoList App**: This is a simple web-based Todo List application built with Node.js, Express, and MongoDB. [GitHub Repo](https://github.com/ehasan8115/todolist) | [Website](https://todolist-app-jeh0.onrender.com/)
 
-6. Keeper App: A note-taking app for keeping track of your notes and tasks. [GitHub Repo](https://github.com/ehasan8115/keeper) | [Website](https://ehasan-keeper-app.netlify.app/)
+6. **Keeper App**: A note-taking app for keeping track of your notes and tasks. [GitHub Repo](https://github.com/ehasan8115/keeper) | [Website](https://ehasan-keeper-app.netlify.app/)
 
-7. SocialBook - Frontend Clone of Facebook: This is a frontend clone of the popular social media platform Facebook. It is built using HTML, CSS and JavaScript. [GitHub Repo](https://github.com/ehasan8115/socialbook) | [Website](https://github.com/ehasan8115/socialbook)
+7. **SocialBook** - Frontend Clone of Facebook: This is a frontend clone of the popular social media platform Facebook. It is built using HTML, CSS and JavaScript. [GitHub Repo](https://github.com/ehasan8115/socialbook) | [Website](https://github.com/ehasan8115/socialbook)
 
-8. Travel Packing List - The Travel Packing List App is a user-friendly web application built using React. It helps you organize and manage the items you need to pack for your trips, making travel preparation a breeze. [GitHub Repo](https://github.com/ehasan8115/travel-packing-list) | [Website](https://travel-items.netlify.app/)
+8. **Travel Packing List** - The Travel Packing List App is a user-friendly web application built using React. It helps you organize and manage the items you need to pack for your trips, making travel preparation a breeze. [GitHub Repo](https://github.com/ehasan8115/travel-packing-list) | [Website](https://travel-items.netlify.app/)
 
 Feel free to explore these projects and provide feedback!
 
@@ -65,7 +65,7 @@ Feel free to explore these projects and provide feedback!
 
 You can reach out to me via the following channels:
 
-- Email: mdehasan1053@gmail.com
-- Phone: +91 8115776785
+- **Email**: mdehasan1053@gmail.com
+- **Phone**: +91 8115776785
 
 I'm open to collaboration, freelance opportunities, or just connecting with fellow developers. Feel free to get in touch!
