@@ -19,7 +19,7 @@ I'm Ehasan Ahamad Ansari, a web developer and a student at NIET College. I have 
 Here are some of the skills I possess:
 
 - Languages: Python, Java, JavaScript, SQL
-- Web Technologies: HTML5, CSS3, Bootstrap, JavaScript, Node.js, MongoDB, React 
+- Web Technologies: HTML5, CSS3, Bootstrap, JavaScript, Node.js, MongoDB, React
 - Tools: GitHub, VS Code, SQL Developer
 - Courses: Full Stack Web Development, Programming with Java, Data Structures, Database Systems, OOPs with Java
 - Other Skills: Problem Solving, Leadership, Teamwork, Critical Thinking, Communication
@@ -53,6 +53,8 @@ Here are some of the projects I have worked on:
 
 7. SocialBook - Frontend Clone of Facebook: This is a frontend clone of the popular social media platform Facebook. It is built using HTML, CSS and JavaScript. [GitHub Repo](https://github.com/ehasan8115/socialbook) | [Website](https://github.com/ehasan8115/socialbook)
 
+8. Travel Packing List - The Travel Packing List App is a user-friendly web application built using React. It helps you organize and manage the items you need to pack for your trips, making travel preparation a breeze. [GitHub Repo](https://github.com/ehasan8115/travel-packing-list) | [Website](https://travel-items.netlify.app/)
+
 Feel free to explore these projects and provide feedback!
 
 ## Contact
@@ -63,4 +65,3 @@ You can reach out to me via the following channels:
 - Phone: +91 8115776785
 
 I'm open to collaboration, freelance opportunities, or just connecting with fellow developers. Feel free to get in touch!
-
