@@ -53,14 +53,14 @@ Here are some of the projects I have worked on:
 
 5. **ToDoList App**: This is a simple web-based Todo List application built with Node.js, Express, and MongoDB. [GitHub Repo](https://github.com/ehasan8115/todolist) | [Website](https://todolist-app-jeh0.onrender.com/)
 
-6. **Keeper App**: A note-taking app for keeping track of your notes and tasks. [GitHub Repo](https://github.com/ehasan8115/keeper) | [Website](https://ehasan-keeper-app.netlify.app/)
+6. **Secrets Authentication App**: SecretKeeper is a web application that allows users to share secrets anonymously. Users can register or log in using their Google account or local credentials and submit their secrets. The submitted secrets are displayed on the "Secrets" page, allowing users to discover and explore various secrets shared by others.
+   [GitHub Repo](https://github.com/ehasan8115/Secrets-Authentication) | [Website](https://secrets-app-9ox9.onrender.com/)
 
-7. **SocialBook** - Frontend Clone of Facebook: This is a frontend clone of the popular social media platform Facebook. It is built using HTML, CSS and JavaScript. [GitHub Repo](https://github.com/ehasan8115/socialbook) | [Website](https://github.com/ehasan8115/socialbook)
+7. **Keeper App**: A note-taking app for keeping track of your notes and tasks. [GitHub Repo](https://github.com/ehasan8115/keeper) | [Website](https://ehasan-keeper-app.netlify.app/)
 
-8. **Travel Packing List** - The Travel Packing List App is a user-friendly web application built using React. It helps you organize and manage the items you need to pack for your trips, making travel preparation a breeze. [GitHub Repo](https://github.com/ehasan8115/travel-packing-list) | [Website](https://travel-items.netlify.app/)
+8. **SocialBook**: Frontend Clone of Facebook: This is a frontend clone of the popular social media platform Facebook. It is built using HTML, CSS and JavaScript. [GitHub Repo](https://github.com/ehasan8115/socialbook) | [Website](https://github.com/ehasan8115/socialbook)
 
-9. Secrets Authentication App - SecretKeeper is a web application that allows users to share secrets anonymously. Users can register or log in using their Google account or local credentials and submit their secrets. The submitted secrets are displayed on the "Secrets" page, allowing users to discover and explore various secrets shared by others.
- [GitHub Repo](https://github.com/ehasan8115/Secrets-Authentication) | [Website](https://secrets-app-9ox9.onrender.com/)
+9. **Travel Packing List**: The Travel Packing List App is a user-friendly web application built using React. It helps you organize and manage the items you need to pack for your trips, making travel preparation a breeze. [GitHub Repo](https://github.com/ehasan8115/travel-packing-list) | [Website](https://travel-items.netlify.app/)
 
 Feel free to explore these projects and provide feedback!
 
