@@ -55,6 +55,9 @@ Here are some of the projects I have worked on:
 
 8. Travel Packing List - The Travel Packing List App is a user-friendly web application built using React. It helps you organize and manage the items you need to pack for your trips, making travel preparation a breeze. [GitHub Repo](https://github.com/ehasan8115/travel-packing-list) | [Website](https://travel-items.netlify.app/)
 
+9. Secrets Authentication App - SecretKeeper is a web application that allows users to share secrets anonymously. Users can register or log in using their Google account or local credentials and submit their secrets. The submitted secrets are displayed on the "Secrets" page, allowing users to discover and explore various secrets shared by others.
+ [GitHub Repo](https://github.com/ehasan8115/Secrets-Authentication) | [Website](https://secrets-app-9ox9.onrender.com/)
+
 Feel free to explore these projects and provide feedback!
 
 ## Contact
