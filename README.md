@@ -62,6 +62,8 @@ Here are some of the projects I have worked on:
 
 9. **Travel Packing List**: The Travel Packing List App is a user-friendly web application built using React. It helps you organize and manage the items you need to pack for your trips, making travel preparation a breeze. [GitHub Repo](https://github.com/ehasan8115/travel-packing-list) | [Website](https://travel-items.netlify.app/)
 
+10. **usePopcorn**: UsePopcorn is a user-friendly React web app designed for movie enthusiasts. It offers movie search, detailed information, and a watchlist feature for tracking watched movies. [GitHub Repo](https://github.com/ehasan8115/usepopcorn) | [Website](https://usepopcorn-reactjs.netlify.app/)
+
 Feel free to explore these projects and provide feedback!
 
 ## Contact
